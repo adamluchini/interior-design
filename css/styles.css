@@ -1,9 +1,28 @@
-.columns {
+.columns1 {
   width:30%;
   float: left;
   padding-right: 10px;
+  background-color: yellow;
+  border: 2px solid black;
+  margin: 10px;
 }
 .pics {
   width:400px;
   float: left;
+}
+.columns2 {
+  width:30%;
+  float: left;
+  padding-right: 10px;
+  background-color: grey;
+  border: 2px solid black;
+  margin: 10px;
+}
+.columns3 {
+  width:30%;
+  float: left;
+  padding-right: 10px;
+  background-color: orange;
+  border: 2px solid black;
+  margin: 10px;
 }
